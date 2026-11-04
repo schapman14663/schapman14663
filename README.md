@@ -11,7 +11,7 @@ So at the moment I'm putting a lot of effort into getting my Uni assignments (wh
 done ahead of schedule, and since I work full time as well, I haven't found much time to put into personal
 projects and self development. 
 
-##Currently Working On
+## Currently Working On
 - Python
 - C
 
