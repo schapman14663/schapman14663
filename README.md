@@ -15,5 +15,4 @@ projects and self development.
 - Python
 - C
 
-This roadmap.sh embed is a little out of date, and I will update it this weekend (7/11 - 8/11)
 [![roadmap.sh](https://roadmap.sh/card/wide/66dab995c46f68d0528c630d?variant=dark)](https://roadmap.sh)
