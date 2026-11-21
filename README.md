@@ -12,7 +12,7 @@ done ahead of schedule, and since I work full time as well, I haven't found much
 projects and self development. 
 
 ## Currently Working On
-- Python
-- C
+- Python (Uni)
+- C (Systems Programming)
 
 [![roadmap.sh](https://roadmap.sh/card/wide/66dab995c46f68d0528c630d?variant=dark)](https://roadmap.sh)
