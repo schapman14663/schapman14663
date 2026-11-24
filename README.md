@@ -14,5 +14,5 @@ projects and self development.
 ## Currently Working On
 - Python (Uni)
 - C (Systems Programming)
-
-[![roadmap.sh](https://roadmap.sh/card/tall/66dab995c46f68d0528c630d?variant=dark&roadmaps=)](https://roadmap.sh)
+  
+[![roadmap.sh](https://roadmap.sh/card/tall/66dab995c46f68d0528c630d?variant=dark&roadmaps=%2Cpython%2Crust%2Cc)](https://roadmap.sh)
