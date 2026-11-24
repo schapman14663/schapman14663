@@ -15,4 +15,4 @@ projects and self development.
 - Python (Uni)
 - C (Systems Programming)
 
-[![roadmap.sh](https://roadmap.sh/card/wide/66dab995c46f68d0528c630d?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/66dab995c46f68d0528c630d?variant=dark&roadmaps=)](https://roadmap.sh)
